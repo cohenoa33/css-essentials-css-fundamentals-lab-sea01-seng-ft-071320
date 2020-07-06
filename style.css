@@ -32,5 +32,6 @@ figcaption {
   margin-right: auto;
 }
 #details {
-   float: left;
+   background-color: red;
+   
 }
