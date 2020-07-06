@@ -33,5 +33,5 @@ figcaption {
 }
 #details {
   display: inline;
-
+  float: left;
 }
