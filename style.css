@@ -32,7 +32,6 @@ figcaption {
   margin-right: auto;
 }
 #details {
-   background-color: red;
-   float: left;
-   display: block;
+  display: inline-block;
+
 }
