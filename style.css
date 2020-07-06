@@ -33,6 +33,7 @@ figcaption {
 }
 #details {
   display:flex;
+  width: auto;
 }
 
 div {
